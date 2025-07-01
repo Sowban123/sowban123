@@ -3,7 +3,14 @@
 💻 **Full Stack Developer (Python + Django)**  
 🚀 Passionate about building real-world web applications with clean code, scalable backend logic, and responsive user interfaces.  
 🌐 Currently working on professionally deployed client websites and business-ready solutions.
+---
+## 🧑‍💻 About Me
 
+I'm a dedicated web developer who transforms business needs into elegant digital solutions. With strong experience in frontend and backend technologies, I specialize in creating functional, user-friendly, and scalable websites that deliver value.
+
+I’ve worked on multiple live projects for real businesses — combining clean UI, solid backend logic, and database integration to produce full-stack web applications.
+
+---
 ---
 
 ## 💼 Tech Stack
