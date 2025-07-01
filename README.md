@@ -12,8 +12,8 @@
 - Database: MySQL, SQLite
 - Tools: Git, GitHub, VS Code
 
-## 📈 GitHub Stats
-![Sowban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sowban123&show_icons=true&theme=radical)
+
+
 
 ## 🔗 Connect with Me
 - 📧 mohammedsowban008@gmail.com
