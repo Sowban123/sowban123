@@ -42,7 +42,7 @@ I’ve worked on multiple live projects for real businesses — combining clean 
 
 📧 **Email**: mohammedsowban008@gmail.com  
 🔗 **GitHub**: [github.com/Sowban123](https://github.com/Sowban123)  
-🔗 **LinkedIn**: [linkedin.com/in/yourprofile](#)
+🔗 **LinkedIn**: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-sowban-928415239/)](#)
 
 ---
 
