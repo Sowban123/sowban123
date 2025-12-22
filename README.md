@@ -90,52 +90,207 @@ As an emerging software developer, I bridge the gap between theoretical knowledg
 
 </div>
 
----
-##  GitHub Metrics
+##  GitHub Analytics & Metrics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true)
+###  **Development Activity & Statistics**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+<!-- GitHub Stats with Custom Theme -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&theme=radical&bg_color=30,0d1117,161b22&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9&border_color=30363d&ring_color=ff6b6b&include_all_commits=true)
+
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&bg_color=30,0d1117,161b22&title_color=ff6b6b&text_color=c9d1d9&border_color=30363d&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&background=0d1117&border=30363d&stroke=30363d&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff6b6b&sideLabels=c9d1d9&dates=8b949e)
+
+<!-- Contribution Graph -->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=ff6b6b&point=4ecdc4&area=true&hide_border=true&custom_title=My%20Contribution%20Activity)
+
+<!-- Trophy Stats -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C)
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=ff6b6b&style=flat-square&label=PROFILE+VISITORS)
 
 </div>
 
-##  Education & Continuous Learning
-
-**Bachelor of Computer Applications (BCA)**  
-*Mazharul Uloom College, Ambur, Tamil Nadu | 2022–2025*
-
-**Current Learning Focus:**
-- Advanced React patterns and state management
-- Microservices architecture with Django
-- Docker containerization for Django applications
-- System design principles for scalable applications
-
-##  Professional Availability
-
-I am actively seeking **junior developer positions** where I can:
-- Contribute to production codebases under mentorship of senior engineers
-- Apply my Django and React skills to solve real business problems
-- Participate in agile development processes and code reviews
-- Grow into increasingly responsible full-stack development roles
-
-** Contact Information:**
-- **Email:** [mohammedsowban008@gmail.com](mailto:mohammedsowban008@gmail.com)
-- **Phone:** [+91-7904853464](tel:+917904853464)
-- **Portfolio:** [Portfolio Website](https://your-portfolio-link.com)
-- **Location:** Ambur, Tamil Nadu, India (Open to Relocation/Remote)
-
 ---
+
+##  Education & Continuous Growth
+
+<div align="center" style="padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #0d1117 100%); border-radius: 10px; border-left: 4px solid #4ecdc4; margin: 20px 0;">
+
+### **Bachelor of Computer Applications (BCA)**
+** Mazharul Uloom College, Ambur, Tamil Nadu | 2022–2025**
+
+![Academic Progress](https://img.shields.io/badge/Status-Graduating_2025-06d6a0?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.5/10-ffd166?style=for-the-badge)
+![Specialization](https://img.shields.io/badge/Specialization-Web_Development-ef476f?style=for-the-badge)
+
+</div>
+
+###  **Active Learning Journey**
 
 <div align="center">
 
-### "Building today's solutions while preparing for tomorrow's challenges"
+| **Focus Area** | **Current Skills** | **Learning Goals 2024** | **Progress** |
+|:---|:---|:---|:---|
+| **React Ecosystem** | Components, Hooks, State | Advanced Patterns, Redux | ![75%](https://img.shields.io/badge/75%25-ff6b6b?style=flat-square) |
+| **Backend Architecture** | Django REST, PostgreSQL | Microservices, Caching | ![60%](https://img.shields.io/badge/60%25-4ecdc4?style=flat-square) |
+| **DevOps & Deployment** | Render, Git | Docker, CI/CD, AWS | ![50%](https://img.shields.io/badge/50%25-ffd166?style=flat-square) |
+| **System Design** | Database Design | Scalable Architecture | ![40%](https://img.shields.io/badge/40%25-06d6a0?style=flat-square) |
 
-[![Email](https://img.shields.io/badge/SEND_EMAIL-mohammedsowban008%40gmail.com-important?style=for-the-badge&logo=gmail)](mailto:mohammedsowban008@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+</div>
+
+###  **Learning Resources & Certifications**
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Udemy-A%2FB-EC5252?style=flat-square&logo=udemy&logoColor=white" alt="Udemy">
+  <img src="https://img.shields.io/badge/FreeCodeCamp-Certified-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp">
+  <img src="https://img.shields.io/badge/Django_Docs-Reading-092E20?style=flat-square&logo=django&logoColor=white" alt="Django Docs">
+  <img src="https://img.shields.io/badge/React_Docs-Advanced-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Docs">
+  <img src="https://img.shields.io/badge/LeetCode-50%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode">
+</div>
+
+---
+
+##  Career Aspirations & Availability
+
+<div align="center" style="padding: 25px; background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border-radius: 15px; border: 2px solid #30363d; margin: 30px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+
+###  **Actively Seeking Junior Developer Roles**
+
+![Status](https://img.shields.io/badge/🔍_ACTIVELY_SEARCHING-ff6b6b?style=for-the-badge)
+![Availability](https://img.shields.io/badge/📅_IMMEDIATE_AVAILABILITY-4ecdc4?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_OPEN_TO_RELOCATION_REMOTE-06d6a0?style=for-the-badge)
+
+</div>
+
+###  **What I'm Looking For**
+
+<div align="center">
+
+| Role Type | Ideal Environment | My Contribution |
+|:---:|:---|:---|
+| **Junior Full-Stack** | Agile teams, Code reviews | Django/React features, Bug fixes |
+| ** Django Backend** | Python-focused, REST APIs | API development, Database design |
+| ** React Frontend** | Modern UI/UX, Component libraries | Responsive interfaces, State management |
+
+</div>
+
+###  **I Thrive In Environments Where I Can:**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 25px 0;">
+
+<div style="background: linear-gradient(135deg, #1a1f29, #232a38); padding: 20px; border-radius: 10px; border-left: 4px solid #ff6b6b;">
+<h4> <strong>Contribute to Production Codebases</strong></h4>
+<p>Work on real-world applications under senior mentorship, implementing features that impact end-users directly.</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #1a1f29, #232a38); padding: 20px; border-radius: 10px; border-left: 4px solid #4ecdc4;">
+<h4> <strong>Solve Business Problems</strong></h4>
+<p>Apply my Django and React skills to create solutions that address actual business needs and user pain points.</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #1a1f29, #232a38); padding: 20px; border-radius: 10px; border-left: 4px solid #ffd166;">
+<h4> <strong>Participate in Agile Processes</strong></h4>
+<p>Engage in sprint planning, daily standups, code reviews, and continuous integration/deployment cycles.</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #1a1f29, #232a38); padding: 20px; border-radius: 10px; border-left: 4px solid #06d6a0;">
+<h4><strong>Grow Into Full-Stack Roles</strong></h4>
+<p>Progress from junior responsibilities to taking ownership of features across the entire stack with increasing autonomy.</p>
+</div>
+
+</div>
+
+---
+## Connect With Me
+
+<div align="center" style="padding: 30px; background: linear-gradient(135deg, #0d1117, #161b22); border-radius: 15px; border: 2px solid #30363d; margin: 20px 0;">
+
+###  **Contact Information & Availability**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 25px 0;">
+
+<div style="text-align: center;">
+<h4> <strong>Email</strong></h4>
+<a href="mailto:mohammedsowban008@gmail.com">
+<img src="https://img.shields.io/badge/mohammedsowban008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<p style="margin-top: 10px; color: #8b949e;">Primary professional contact</p>
+</div>
+
+<div style="text-align: center;">
+<h4> <strong>Phone/WhatsApp</strong></h4>
+<a href="tel:+917904853464">
+<img src="https://img.shields.io/badge/%2B91_7904853464-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
+</a>
+<p style="margin-top: 10px; color: #8b949e;">Available for calls 10AM-7PM IST</p>
+</div>
+
+<div style="text-align: center;">
+<h4> <strong>Portfolio & Resume</strong></h4>
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/View_Portfolio-FF7139?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio">
+</a>
+<p style="margin-top: 10px; color: #8b949e;">Live projects & detailed experience</p>
+</div>
+
+<div style="text-align: center;">
+<h4> <strong>Location & Relocation</strong></h4>
+<img src="https://img.shields.io/badge/Ambur%2C_Tamil_Nadu-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+<p style="margin-top: 10px; color: #8b949e;">Open to relocation or remote work</p>
+</div>
+
+</div>
+
+###  **Professional Networks**
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 25px;">
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.2)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&scale=1.2)](https://github.com/yourusername)
+[![Twitter](https://img.shields.io/badge/FOLLOW_ON_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&scale=1.2)](https://twitter.com/yourprofile)
+[![Dev.to](https://img.shields.io/badge/READ_MY_BLOG-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&scale=1.2)](https://dev.to/yourprofile)
+
+</div>
+
+### **Best Time to Connect**
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
+<img src="https://img.shields.io/badge/⏰_Mon-Fri_10AM-7PM_IST-06d6a0?style=flat-square" alt="Weekdays">
+<img src="https://img.shields.io/badge/📧_Email_Response_<24h-4ecdc4?style=flat-square" alt="Response Time">
+<img src="https://img.shields.io/badge/🎯_Interview_Ready-ff6b6b?style=flat-square" alt="Interview Ready">
+</div>
+
+</div>
+
+---
+
+<div align="center" style="margin-top: 40px; padding: 30px; background: linear-gradient(90deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffeaa7, #ff6b6b); background-size: 400% 400%; border-radius: 15px; animation: gradient 15s ease infinite;">
+
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+###  **"Transforming Ideas into Production-Ready Solutions"** 
+
+**Ready to contribute • Eager to learn • Passionate about building**
+
+[![Schedule Chat](https://img.shields.io/badge/📅_SCHEDULE_A_CHAT-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/yourusername)
+[![Download Resume](https://img.shields.io/badge/📄_DOWNLOAD_RESUME-EF476F?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://your-portfolio-link.com/resume.pdf)
+
+</div>
+
+---
+
+<div align="center" style="margin-top: 30px; color: #8b949e; font-size: 0.9em;">
+
+*Last Updated: <span id="current-date"></span> • Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=8b949e&style=flat-square)*
+
+
 
 </div>
