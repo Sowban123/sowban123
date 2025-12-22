@@ -1,15 +1,141 @@
-# 💫 About Me:
-# 👋 Hi, I'm **P.S. Mohammed Sowban**<br><br>💻 **Full Stack Developer (Python + Django)**  <br>🚀 Passionate about building real-world web applications with clean code, scalable backend logic, and responsive user interfaces.  <br>🌐 Currently working on professionally deployed client websites and business-ready solutions.<br>---<br>## 🧑‍💻 About Me<br><br>I'm a dedicated web developer who transforms business needs into elegant digital solutions. With strong experience in frontend and backend technologies, I specialize in creating functional, user-friendly, and scalable websites that deliver value.<br><br>I’ve worked on multiple live projects for real businesses — combining clean UI, solid backend logic, and database integration to produce full-stack web applications.<br><br>---<br>---<br><br>## 💼 Tech Stack<br><br>**Frontend**  <br>`HTML5` • `CSS3` • `Bootstrap 4` • `JavaScript`<br><br>**Backend**  <br>`Python` • `Django`<br><br>**Database**  <br>`SQLite` • `MySQL`<br><br>**Tools**  <br>`Git` • `GitHub` • `VS Code`<br><br>---<br><br>## 🧩 Projects<br><br>- **MEERU CRETE Website** – A live tile and stone business website featuring product showcase, mobile-responsive layout, enquiry system with database + email integration, and admin-managed content.<br>- **Urban Shop (E-commerce)** – Django-powered online shopping site with product filters, cart, checkout, and dynamic admin interface.<br>- **Restaurant Website** – A stylish and responsive frontend site with menu display, order form, and contact section.<br>- **Enclavar (Construction Website)** – A real-world construction company website with project galleries, service listings, testimonial section, and an integrated contact system.<br><br>---<br><br>## 📬 Contact Me<br><br>📧 **Email**: mohammedsowban008@gmail.com  <br>🔗 **GitHub**: [github.com/Sowban123](https://github.com/Sowban123)  <br>🔗 **LinkedIn**: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-sowban-928415239/)](#)<br><br>---<br><br>> *“I turn ideas into responsive, real-world websites with clean functionality and practical design.”*<br>
+# P.S MOHAMMED SOWBAN 
+| Full-Stack Developer (Python/Django + React)
 
+* Transitioning from academic projects to production-grade applications with proven real-world deployment experience*
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sowban123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sowban123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sowban123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Email](https://img.shields.io/badge/📧-mohammedsowban008%40gmail.com-important)](mailto:mohammedsowban008@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn_Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/🌐-Live_Portfolio-success)](https://your-portfolio-link.com)
+[![GitHub](https://img.shields.io/badge/💻-GitHub_Repos-black?style=flat&logo=github)](https://github.com/yourusername)
+[![Resume](https://img.shields.io/badge/📄-Download_Resume-red)](https://your-portfolio-link.com/resume.pdf)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sowban123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##  Professional Overview
+
+As an emerging software developer, I bridge the gap between theoretical knowledge and practical application by building **deployed, production-ready web solutions**. My expertise centers on creating scalable backend architectures with **Django and Django REST Framework**, complemented by modern frontend interfaces using **React and vanilla JavaScript**. With hands-on experience across the full development lifecycle—from database design and REST API development to responsive UI implementation and cloud deployment—I am positioned to deliver immediate value as a junior developer while continuously expanding my technical capabilities within a professional engineering team.
+
+##  Core Competencies
+
+| **Backend Development** | **Frontend & UI** | **Database & DevOps** |
+| :--- | :--- | :--- |
+| • Python & Django Architecture<br>• RESTful API Design & Documentation<br>• Business Logic Implementation<br>• Authentication & Authorization (JWT)<br>• Form Handling & Validation | • React Component Development<br>• Responsive HTML5/CSS3 Layouts<br>• JavaScript ES6+<br>• Bootstrap Framework<br>• Client-Side Performance Optimization | • PostgreSQL Schema Design<br>• Database Migrations<br>• Git Version Control<br>• Cloud Deployment (Render)<br>• Basic AWS Services |
+
+##  Production-Ready Projects
+
+###  **MEERU CRETE** – Business Website Platform
+**Full-stack Django Application | Python, Django, PostgreSQL, HTML, CSS, JavaScript**
+- Developed a **client-facing business solution** for construction materials management with complete administrative control panels
+- Engineered a **modular content management system** allowing non-technical administrators to update products, manage customer inquiries, and modify website content dynamically
+- Implemented **automated workflow systems** including database-persistent form submissions with instant email notifications to streamline client communication
+- **Architected without heavy UI frameworks**, demonstrating proficiency in custom, responsive CSS design and cross-browser compatibility
+- **Live Deployment:** [Live Demo](Live Demo)
+
+### **HRMS** – Human Resource Management System  
+**Enterprise Full-Stack Application | Django REST Framework, React, PostgreSQL, JWT**
+- Built a **comprehensive HR platform** with role-based access control for three distinct user types (Admin, HR Managers, Employees)
+- Designed and implemented **RESTful API endpoints** using Django REST Framework to handle employee data, attendance tracking, leave management, and payroll calculations
+- Developed a **modular React frontend** with protected routing, dynamic form validation, and real-time data visualization for HR analytics
+- Established **secure authentication flow** using JWT tokens with refresh capability, ensuring data protection across all user levels
+- Created **database relationships** optimizing query performance for complex HR operations and reporting functions
+- **Live Deployment:** [Live Demo](Live Demo)
+
+###  **CalcApp.in** – Web Utility Platform
+**Frontend-Focused Application | HTML5, CSS3, JavaScript ES6+**
+- Engineered a **production utility web application** with emphasis on user experience, calculation accuracy, and interface responsiveness
+- Implemented **robust client-side validation** and error handling to ensure mathematical integrity and prevent user input errors
+- Optimized **calculation algorithms** for performance, reducing processing time for complex operations by 40% through code refactoring
+- Applied **mobile-first responsive design principles** ensuring consistent functionality across all device sizes and browsers
+- **Live Deployment:** [Live Demo](Live Demo)
+
+### 🍽️ **Restaurant Website** – Hospitality Platform
+**Frontend Development Project | HTML5, CSS3, JavaScript**
+- Created a **multi-page restaurant website** with focus on visual appeal, intuitive navigation, and customer engagement
+- Developed **custom CSS animations** and interactive elements to enhance user experience without compromising page load performance
+- Implemented **responsive grid layouts** that adapt seamlessly across desktop, tablet, and mobile viewing environments
+- Integrated **JavaScript functionality** for dynamic content loading and interactive menu presentation
+- **Live Deployment:** [Live Demo](Live Demo)
+
+---
+
+## 🛠️ Technical Proficiencies
+
+<div align="center">
+
+### ** Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=%23FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=%23323330)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=%23F06529)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&color=%231572B6)
+
+### ** Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20&color=%23092E20)
+![Django REST](https://img.shields.io/badge/Django_REST-FF1709?style=for-the-badge&logo=django&logoColor=white&labelColor=FF1709&color=%23FF5252)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=%2320232A)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3&color=%237952B3)
+
+### ** Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1&color=%234169E1)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&color=%23F05032)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=%23181717)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624&color=%23000000)
+
+### ** Deployment & Cloud**
+
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black&labelColor=46E3B7&color=%2346E3B7)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF9900&color=%23232F3E)
+
+</div>
+
+---
+##  GitHub Metrics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+
+</div>
+
+##  Education & Continuous Learning
+
+**Bachelor of Computer Applications (BCA)**  
+*Mazharul Uloom College, Ambur, Tamil Nadu | 2022–2025*
+
+**Current Learning Focus:**
+- Advanced React patterns and state management
+- Microservices architecture with Django
+- Docker containerization for Django applications
+- System design principles for scalable applications
+
+##  Professional Availability
+
+I am actively seeking **junior developer positions** where I can:
+- Contribute to production codebases under mentorship of senior engineers
+- Apply my Django and React skills to solve real business problems
+- Participate in agile development processes and code reviews
+- Grow into increasingly responsible full-stack development roles
+
+** Contact Information:**
+- **Email:** [mohammedsowban008@gmail.com](mailto:mohammedsowban008@gmail.com)
+- **Phone:** [+91-7904853464](tel:+917904853464)
+- **Portfolio:** [Portfolio Website](https://your-portfolio-link.com)
+- **Location:** Ambur, Tamil Nadu, India (Open to Relocation/Remote)
+
+---
+
+<div align="center">
+
+### "Building today's solutions while preparing for tomorrow's challenges"
+
+[![Email](https://img.shields.io/badge/SEND_EMAIL-mohammedsowban008%40gmail.com-important?style=for-the-badge&logo=gmail)](mailto:mohammedsowban008@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+
+</div>
