@@ -48,7 +48,7 @@ As an emerging software developer, I bridge the gap between theoretical knowledg
 - Applied **mobile-first responsive design principles** ensuring consistent functionality across all device sizes and browsers
 - **Live Deployment:** [Live Demo](Live Demo)
 
-### 🍽️ **Restaurant Website** – Hospitality Platform
+###  **Restaurant Website** – Hospitality Platform
 **Frontend Development Project | HTML5, CSS3, JavaScript**
 - Created a **multi-page restaurant website** with focus on visual appeal, intuitive navigation, and customer engagement
 - Developed **custom CSS animations** and interactive elements to enhance user experience without compromising page load performance
@@ -58,7 +58,7 @@ As an emerging software developer, I bridge the gap between theoretical knowledg
 
 ---
 
-## 🛠️ Technical Proficiencies
+##  Technical Proficiencies
 
 <div align="center">
 
