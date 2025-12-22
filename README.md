@@ -1,49 +1,15 @@
-# 👋 Hi, I'm **P.S. Mohammed Sowban**
+# 💫 About Me:
+# 👋 Hi, I'm **P.S. Mohammed Sowban**<br><br>💻 **Full Stack Developer (Python + Django)**  <br>🚀 Passionate about building real-world web applications with clean code, scalable backend logic, and responsive user interfaces.  <br>🌐 Currently working on professionally deployed client websites and business-ready solutions.<br>---<br>## 🧑‍💻 About Me<br><br>I'm a dedicated web developer who transforms business needs into elegant digital solutions. With strong experience in frontend and backend technologies, I specialize in creating functional, user-friendly, and scalable websites that deliver value.<br><br>I’ve worked on multiple live projects for real businesses — combining clean UI, solid backend logic, and database integration to produce full-stack web applications.<br><br>---<br>---<br><br>## 💼 Tech Stack<br><br>**Frontend**  <br>`HTML5` • `CSS3` • `Bootstrap 4` • `JavaScript`<br><br>**Backend**  <br>`Python` • `Django`<br><br>**Database**  <br>`SQLite` • `MySQL`<br><br>**Tools**  <br>`Git` • `GitHub` • `VS Code`<br><br>---<br><br>## 🧩 Projects<br><br>- **MEERU CRETE Website** – A live tile and stone business website featuring product showcase, mobile-responsive layout, enquiry system with database + email integration, and admin-managed content.<br>- **Urban Shop (E-commerce)** – Django-powered online shopping site with product filters, cart, checkout, and dynamic admin interface.<br>- **Restaurant Website** – A stylish and responsive frontend site with menu display, order form, and contact section.<br>- **Enclavar (Construction Website)** – A real-world construction company website with project galleries, service listings, testimonial section, and an integrated contact system.<br><br>---<br><br>## 📬 Contact Me<br><br>📧 **Email**: mohammedsowban008@gmail.com  <br>🔗 **GitHub**: [github.com/Sowban123](https://github.com/Sowban123)  <br>🔗 **LinkedIn**: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-sowban-928415239/)](#)<br><br>---<br><br>> *“I turn ideas into responsive, real-world websites with clean functionality and practical design.”*<br>
 
-💻 **Full Stack Developer (Python + Django)**  
-🚀 Passionate about building real-world web applications with clean code, scalable backend logic, and responsive user interfaces.  
-🌐 Currently working on professionally deployed client websites and business-ready solutions.
----
-## 🧑‍💻 About Me
 
-I'm a dedicated web developer who transforms business needs into elegant digital solutions. With strong experience in frontend and backend technologies, I specialize in creating functional, user-friendly, and scalable websites that deliver value.
-
-I’ve worked on multiple live projects for real businesses — combining clean UI, solid backend logic, and database integration to produce full-stack web applications.
-
----
----
-
-## 💼 Tech Stack
-
-**Frontend**  
-`HTML5` • `CSS3` • `Bootstrap 4` • `JavaScript`
-
-**Backend**  
-`Python` • `Django`
-
-**Database**  
-`SQLite` • `MySQL`
-
-**Tools**  
-`Git` • `GitHub` • `VS Code`
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sowban123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sowban123&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sowban123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sowban123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧩 Projects
-
-- **MEERU CRETE Website** – A live tile and stone business website featuring product showcase, mobile-responsive layout, enquiry system with database + email integration, and admin-managed content.
-- **Urban Shop (E-commerce)** – Django-powered online shopping site with product filters, cart, checkout, and dynamic admin interface.
-- **Restaurant Website** – A stylish and responsive frontend site with menu display, order form, and contact section.
-- **Enclavar (Construction Website)** – A real-world construction company website with project galleries, service listings, testimonial section, and an integrated contact system.
-
----
-
-## 📬 Contact Me
-
-📧 **Email**: mohammedsowban008@gmail.com  
-🔗 **GitHub**: [github.com/Sowban123](https://github.com/Sowban123)  
-🔗 **LinkedIn**: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-sowban-928415239/)](#)
-
----
-
-> *“I turn ideas into responsive, real-world websites with clean functionality and practical design.”*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
