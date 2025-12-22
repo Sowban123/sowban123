@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn_Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/🌐-Live_Portfolio-success)](https://your-portfolio-link.com)
 [![GitHub](https://img.shields.io/badge/💻-GitHub_Repos-black?style=flat&logo=github)](https://github.com/yourusername)
-[![Resume](https://img.shields.io/badge/📄-Download_Resume-red)](https://your-portfolio-link.com/resume.pdf)
+
 
 ---
 
