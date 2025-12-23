@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/📧-mohammedsowban008%40gmail.com-important)](mailto:mohammedsowban008@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn_Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/🌐-Live_Portfolio-success)](https://your-portfolio-link.com)
-[![GitHub](https://img.shields.io/badge/💻-GitHub_Repos-black?style=flat&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/💻-GitHub_Repos-black?style=flat&logo=github)](https://github.com/sowban123)
 
 
 ---
