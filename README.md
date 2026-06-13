@@ -53,6 +53,18 @@ I write clean, maintainable backend code and take ownership of what I build. Loo
 </div>
 
 ---
+## 💼 Experience
+
+**Web Developer Intern — Colan Infotech Pvt Ltd**
+*Chennai, Tamil Nadu · Sep 2025 – Feb 2026*
+
+- Built and maintained backend services and REST APIs using Django REST Framework in a production environment
+- Worked within existing codebases to deliver new features, fix bugs, and improve backend reliability
+- Designed database models and business logic in PostgreSQL with optimized SQL queries
+- Developed authentication workflows and collaborated with frontend teams on API integration
+- Used Git and GitHub for version control across the full delivery lifecycle
+
+---
 ## 🚀 Live Production Projects
 
 ### 🛒 muwas — E-Commerce Platform
@@ -122,18 +134,7 @@ I write clean, maintainable backend code and take ownership of what I build. Loo
 
 ---
 
-## 💼 Experience
 
-**Web Developer Intern — Colan Infotech Pvt Ltd**
-*Chennai, Tamil Nadu · Sep 2025 – Feb 2026*
-
-- Built and maintained backend services and REST APIs using Django REST Framework in a production environment
-- Worked within existing codebases to deliver new features, fix bugs, and improve backend reliability
-- Designed database models and business logic in PostgreSQL with optimized SQL queries
-- Developed authentication workflows and collaborated with frontend teams on API integration
-- Used Git and GitHub for version control across the full delivery lifecycle
-
----
 
 ## 🎓 Education
 
