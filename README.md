@@ -22,7 +22,7 @@ I write clean, maintainable backend code and take ownership of what I build. Loo
 ---
 
 
-## 🛠 Technical Stack
+## Technical Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@ I write clean, maintainable backend code and take ownership of what I build. Loo
 </div>
 
 ---
-## 💼 Experience
+## Experience
 
 **Web Developer Intern — Colan Infotech Pvt Ltd**
 *Chennai, Tamil Nadu · Sep 2025 – Feb 2026*
@@ -65,7 +65,7 @@ I write clean, maintainable backend code and take ownership of what I build. Loo
 - Used Git and GitHub for version control across the full delivery lifecycle
 
 ---
-## 🚀 Live Production Projects
+##  Live Production Projects
 
 ### 🛒 muwas — E-Commerce Platform
 **Python · Django · PostgreSQL · Redis · REST APIs** &nbsp;|&nbsp; [🌐 Live](https://muwas.in)
@@ -80,7 +80,7 @@ I write clean, maintainable backend code and take ownership of what I build. Loo
 
 ---
 
-### 💻 TechZon — E-Commerce Platform
+### TechZon — E-Commerce Platform
 **Python · Django · PostgreSQL · Redis · REST APIs** &nbsp;|&nbsp; [🌐 Live](https://techzon.in)
 
 > A second independently deployed e-commerce platform — demonstrating the ability to design, build, and ship production systems repeatedly.
@@ -92,7 +92,7 @@ I write clean, maintainable backend code and take ownership of what I build. Loo
 
 ---
 
-### 👥 HRMS — Human Resource Management System
+###  HRMS — Human Resource Management System
 **Django · Django REST Framework · PostgreSQL · JWT** &nbsp;|&nbsp; [GitHub](https://github.com/Sowban123/hrms36)
 
 > Enterprise-grade HR platform with role-based access control and secure API architecture.
@@ -104,7 +104,7 @@ I write clean, maintainable backend code and take ownership of what I build. Loo
 
 ---
 
-### 🤖 AI CRM HCP Module — CRM Backend System
+###  AI CRM HCP Module — CRM Backend System
 **Python · Django · React.js · PostgreSQL · REST APIs** &nbsp;|&nbsp; [GitHub](https://github.com/Sowban123/ai-crm-hcp-module)
 
 > Backend API system for managing CRM workflows and customer operations with React.js frontend.
@@ -116,7 +116,7 @@ I write clean, maintainable backend code and take ownership of what I build. Loo
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -136,14 +136,14 @@ I write clean, maintainable backend code and take ownership of what I build. Loo
 
 
 
-## 🎓 Education
+##  Education
 
 **Bachelor of Computer Applications (BCA)**
 Mazharul Uloom College, Ambur, Tamil Nadu · 2022–2025
 
 ---
 
-## 📍 Availability
+##  Availability
 
 <div align="center">
 
@@ -155,7 +155,7 @@ Mazharul Uloom College, Ambur, Tamil Nadu · 2022–2025
 
 ---
 
-## 📬 Contact
+## Contact
 
 <div align="center">
 
