@@ -67,7 +67,7 @@ I write clean, maintainable backend code and take ownership of what I build. Loo
 ---
 ##  Live Production Projects
 
-### 🛒 muwas — E-Commerce Platform
+###  muwas — E-Commerce Platform
 **Python · Django · PostgreSQL · Redis · REST APIs** &nbsp;|&nbsp; [🌐 Live](https://muwas.in)
 
 > A fully deployed e-commerce web application handling real users and real transactions.
@@ -147,8 +147,8 @@ Mazharul Uloom College, Ambur, Tamil Nadu · 2022–2025
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/🔍_OPEN_TO_WORK-ff6b6b?style=for-the-badge)
-![Availability](https://img.shields.io/badge/📅_IMMEDIATE_JOIN-4ecdc4?style=for-the-badge)
+![Status](https://img.shields.io/badge/_OPEN_TO_WORK-ff6b6b?style=for-the-badge)
+![Availability](https://img.shields.io/badge/_IMMEDIATE_JOIN-4ecdc4?style=for-the-badge)
 ![Location](https://img.shields.io/badge/📍_BANGALORE_&_CHENNAI-06d6a0?style=for-the-badge)
 
 </div>
